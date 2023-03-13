@@ -1,0 +1,308 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo{
+    margin-left: 20px;
+    width: 100px;
+    height: 60px;
+}
+ul,
+ol{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:darkblue;
+    
+    
+}
+.navigation-wrap{
+    position: fixed;
+    width: 100%;
+    transition: all 3s ease-out;
+}
+.navigation-wrap .nav-item{
+    padding: 0 10px;
+    transition: all 2s ease-out;
+}
+.nav-link{
+    font-size: 17px;
+    font-weight: 600px;
+    letter-spacing: 1px;
+    color: white;
+    font-family: bold;
+}
+#Home{
+    background-image: url("./images/backg1.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 640px;
+    margin-top: 60px;
+    position: relative;
+    
+}
+.ab{
+    padding-left: 700px;
+    color: navy;
+    font-weight: bold;
+}
+.text{
+    margin-top: 350px;
+    text-align: center ;
+    color: white;
+    text-transform: capitalize;
+    position: relative;
+}
+    
+    
+.text1{
+    padding-left: 300px;
+    color: darkblue;
+    text-indent: 50px;
+    
+}
+.main-btn{
+    margin-left: 500px;
+    width:150px;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+    position: relative;
+    
+
+}
+.main-btn:hover{
+    background-color: darkblue;
+    color:chartreuse;
+
+}
+.white-btn{
+    width:150px;
+    height: 50px;
+    background-color:aliceblue;
+    color: red;
+    position: relative;
+
+}
+.white-btn:hover{
+    background-color: aqua;
+    color: black;
+}
+.h
+{
+    padding-left: 650px;
+    background-color: gray;
+    height: 50px;
+    padding-top: 10px;
+    color: darkblue;
+    font-weight: bold;
+}
+#row1{
+    background-color: gray;
+}
+.d-block{
+    height: 500px;
+}
+.card-title{
+  padding-left: 200px;
+  color: blue;
+}
+.card-text{
+    color: green;
+
+}
+.card:hover{
+    border-color: grey;
+    background-color: darkgray;
+}
+.btn1{
+    margin-left: 180px;
+    background-color: orangered;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+
+.btn1:hover{
+    background-color: seashell;
+    color: indigo;
+}
+.img1{
+    border-radius: 200px;
+    margin-left: 620px;
+    width: 300px;
+    height: 300px;
+}
+#Reviews{
+    background-color: lavender;
+}
+.h3{
+    padding: 20px 20px;
+    margin-left: 700px;
+    color: darkblue;
+    font-weight: bold;
+}
+#Services{
+    background-color: azure;
+}
+.services{
+text-align: center;
+font-weight: bold;
+color: darkblue;
+}
+#serv1{
+    margin-left: 430px;
+    width: 650px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+.l1{
+    justify-content: flex-start;
+    text-indent: 50px;
+    
+}
+#Contact Us{
+    background-color: blue;
+}
+.footer{
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 550px;
+}
+.fotext{
+    color: white;
+    padding-left: 100px;
+}
+.p{
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 300px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400px;
+}
+.bi{
+    margin-top: -30px;
+    margin-left: 110px;
+
+    
+}
+#face{
+    margin-left: 310px;
+    background-color: white;
+    color: blue;
+
+}
+#what{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+#you{
+    width: 70px;
+    height: 60px;
+    color: red;
+    background-color:white;
+    border-radius: 10px;
+}
+#insta{
+    width: 70px;
+    height: 60px;
+    color: white;
+    background-color: red;
+    border-radius: 10px; 
+}
+#goog{
+    width: 70px;
+    height: 60px;
+    color: blue;
+    background-color: white;
+    border-radius: 25px;
+}
+#lin{
+    width: 70px;
+    height: 60px;
+    color: blue;
+    background-color: white;
+    border-radius: 25px;
+}
+#twit{
+    width: 70px;
+    height: 60px;
+    color: blue;
+    background-color: white;
+    border-radius: 35px;
+
+}
+
+.ftr{
+    margin-top: 30px;
+    margin-left: 600px;
+    color: white;
+    font-size: 18px;
+    margin-right: 500px;
+    
+}
+.form{
+    
+    text-align: center;
+    font-size: 18px;
+
+    
+}
+.con{
+    text-align: center;
+    font-weight: bold;
+    color: indigo;
+    padding: 10px 10px;
+}
+.label{
+    background-color: brown;
+    width: 130px;
+    height: 50px;
+    
+
+
+}
+.input{
+    width: 350px;
+    height: 40px;
+    margin-left: 50px;
+}
+.input1{
+    margin-left: 9px ;
+    width: 350px;
+    height: 40px;
+}
+.input2{
+    margin-left: 70px ;
+    width: 350px;
+    height: 40px;
+}
+.input3{
+    margin-left: 70px ;
+    width: 350px;
+    height: 40px;
+}
+.buttn{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+}
+.star{
+    
+    margin-left: 200px;
+    margin-right: 310px;
+    
+}
+#star{
+    color: gold;
+
+    margin-left: 50px;
+}
